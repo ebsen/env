@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Font</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWVWJGNs
+	YXNzI0AoAAAAAAAAEBCAAoADXxAVU291cmNlQ29kZVByby1SZWd1bGFy0hMUFRZaJGNs
+	YXNzbmFtZVgkY2xhc3Nlc1ZOU0ZvbnSiFRdYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2
+	ZXLRGhtUcm9vdIABCBEaIy0yNzxCS1JbYmlydHZ4kJWgqbCzvM7R1gAAAAAAAAEBAAAA
+	AAAAABwAAAAAAAAAAAAAAAAAAADY
+	</data>
+	<key>ProfileCurrentVersion</key>
+	<real>2.02</real>
+	<key>name</key>
+	<string>Basic Source</string>
+	<key>type</key>
+	<string>Window Settings</string>
+</dict>
+</plist>
